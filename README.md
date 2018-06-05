@@ -1,6 +1,6 @@
-# OBS Remote Tablet
+# OBS Remote Tablet for A10
 
-OBS Remote UI optimised for tablets, but really it works with any 
+UI para OBS Remote otimizada para mobile
 
 ## Building instructions
 
